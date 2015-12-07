@@ -1,0 +1,3 @@
+- This is the Gruvbox colorscheme for iTerm
+- You can find the original colorscheme [here](https://github.com/morhetz/gruvbox)
+- Thank you @morhetz for the awesome colors!
